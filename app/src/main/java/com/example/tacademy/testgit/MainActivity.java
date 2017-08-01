@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 20170801 작업시작
+        // TEST2!
     }
 }
