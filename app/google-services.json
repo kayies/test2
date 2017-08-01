@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "305859051343",
+    "firebase_url": "https://testgit-70491.firebaseio.com",
+    "project_id": "testgit-70491",
+    "storage_bucket": "testgit-70491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305859051343:android:07b129fd0661273c",
+        "android_client_info": {
+          "package_name": "com.example.tacademy.testgit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305859051343-td4ovd3j4qui0iubjqrijv2ld9p0fpsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtWYx7ekeAZ9xPlITtRbSFSwRKQRje10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
